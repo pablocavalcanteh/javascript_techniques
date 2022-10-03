@@ -7,3 +7,7 @@
 ## Guard Clauses
 
 - [Link](guard_clauses)
+
+## Currying
+
+- [Link](currying)
