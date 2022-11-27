@@ -1,4 +1,5 @@
-# Javascript Techniques
+# About
+Some programming techniques in JavaScript.
 
 ## Object Literal 
 
